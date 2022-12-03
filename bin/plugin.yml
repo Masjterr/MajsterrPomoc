@@ -1,0 +1,9 @@
+main: me.majsterr.pomoc.Main
+version: 1.0
+autor: Majsterr
+name: MajsterrPomoc
+
+commands:
+  pomoc:
+  vip:
+  informacje:
